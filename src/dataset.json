@@ -4,7 +4,7 @@
             {"content": "仕事を依頼したい", "nextId": "job_offer"},
             {"content": "相談したい", "nextId": "consultant"},
             {"content": "知りたい", "nextId": "community"},
-            {"content": "お付き合いしたい", "nextId": "dating"}
+            {"content": "アポイントメントしたい", "nextId": "dating"}
         ],
         "question": "こんにちは！ご用件をお伺いいたします"
     },
