@@ -1,5 +1,8 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+#FormDialog.jsx
+/Forms/FormDialog
+
 #firebase/config
 /firebase/config
 
