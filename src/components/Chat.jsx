@@ -3,8 +3,7 @@ import ListItem from '@material-ui/core/ListItem';
 import ListItemAvatar from '@material-ui/core/ListItemAvatar';
 import Avatar from '@material-ui/core/Avatar';
 import NoProfile from '../assets/img/no-profile.png'
-import Torahack from '../assets/img/torahack.png'
-import Aisatsu from '../assets/img/aisatsu_boushi_nimotsu.png'
+import Aisatsu from '../assets/img/aisatsu_boushi.png'
 
 
 const Chat = (props)=>{
