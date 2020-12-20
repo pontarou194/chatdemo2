@@ -25,6 +25,10 @@
   overflow: auto;
 }
 
+::-webkit-full-page-media, _:future, :root .MuiListItem-root {
+  margin-top: 15px;
+}
+
 .c-grid__answer {
   display: flex;
   flex-flow: column;
